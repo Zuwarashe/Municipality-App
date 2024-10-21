@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|c:\\users\\zuwa\\desktop\\prog-part2\\municipality-app\\announcementandevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|solutionrelative:announcementandevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|c:\\users\\zuwa\\desktop\\prog-part2\\municipality-app\\issuereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|solutionrelative:issuereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\announcementandevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|solutionrelative:announcementandevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\issuereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|solutionrelative:issuereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\announcementandevents.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|solutionrelative:announcementandevents.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|solutionrelative:issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\viewissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|solutionrelative:viewissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\issuereport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|solutionrelative:issuereport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\viewissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B172A84D-0DEA-4295-B87D-7AC4A3DDE428}|Municipality-App.csproj|solutionrelative:viewissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnnouncementAndEvents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\AnnouncementAndEvents.cs",
+              "RelativeDocumentMoniker": "AnnouncementAndEvents.cs",
+              "ToolTip": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\AnnouncementAndEvents.cs [Design]",
+              "RelativeToolTip": "AnnouncementAndEvents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:47:36.794Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnnouncementAndEvents.cs",
+              "DocumentMoniker": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\AnnouncementAndEvents.cs",
+              "RelativeDocumentMoniker": "AnnouncementAndEvents.cs",
+              "ToolTip": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\AnnouncementAndEvents.cs",
+              "RelativeToolTip": "AnnouncementAndEvents.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAApwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:01:21.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IssueReport.cs",
+              "DocumentMoniker": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\IssueReport.cs",
+              "RelativeDocumentMoniker": "IssueReport.cs",
+              "ToolTip": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\IssueReport.cs",
+              "RelativeToolTip": "IssueReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:23:31.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IssueReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\IssueReport.cs",
+              "RelativeDocumentMoniker": "IssueReport.cs",
+              "ToolTip": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\IssueReport.cs [Design]",
+              "RelativeToolTip": "IssueReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T00:08:37.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewIssuesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\ViewIssuesForm.cs",
+              "RelativeDocumentMoniker": "ViewIssuesForm.cs",
+              "ToolTip": "C:\\Users\\Zuwa\\source\\repos\\Municipality-App\\ViewIssuesForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Municipality-App\\ViewIssuesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:37:41.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewIssuesForm.cs",
+              "DocumentMoniker": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\ViewIssuesForm.cs",
+              "RelativeDocumentMoniker": "ViewIssuesForm.cs",
+              "ToolTip": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\ViewIssuesForm.cs",
+              "RelativeToolTip": "ViewIssuesForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:37:55.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Zuwa\\source\\repos\\Municipality-App\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Municipality-App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:57:57.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T00:03:58.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\Event.cs",
+              "RelativeDocumentMoniker": "Event.cs",
+              "ToolTip": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\Event.cs",
+              "RelativeToolTip": "Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:02:17.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnnouncementAndEvents.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\AnnouncementAndEvents.Designer.cs",
+              "RelativeDocumentMoniker": "AnnouncementAndEvents.Designer.cs",
+              "ToolTip": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\AnnouncementAndEvents.Designer.cs",
+              "RelativeToolTip": "AnnouncementAndEvents.Designer.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAMwE4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:38:27.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IssueReport.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\IssueReport.Designer.cs",
+              "RelativeDocumentMoniker": "IssueReport.Designer.cs",
+              "ToolTip": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\IssueReport.Designer.cs",
+              "RelativeToolTip": "IssueReport.Designer.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAgwAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:14:55.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\Issue.cs",
+              "RelativeDocumentMoniker": "Issue.cs",
+              "ToolTip": "C:\\Users\\Zuwa\\Desktop\\PROG-PART2\\Municipality-App\\Issue.cs",
+              "RelativeToolTip": "Issue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:11:29.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

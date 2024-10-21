@@ -1,0 +1,13 @@
+C:\Users\Zuwa\source\repos\Municipality-App\bin\Debug\Municipality-App.exe.config
+C:\Users\Zuwa\source\repos\Municipality-App\bin\Debug\Municipality-App.exe
+C:\Users\Zuwa\source\repos\Municipality-App\bin\Debug\Municipality-App.pdb
+C:\Users\Zuwa\source\repos\Municipality-App\obj\Debug\Municipality-App.csproj.AssemblyReference.cache
+C:\Users\Zuwa\source\repos\Municipality-App\obj\Debug\Municipality_App.Form1.resources
+C:\Users\Zuwa\source\repos\Municipality-App\obj\Debug\Municipality_App.Properties.Resources.resources
+C:\Users\Zuwa\source\repos\Municipality-App\obj\Debug\Municipality-App.csproj.GenerateResource.cache
+C:\Users\Zuwa\source\repos\Municipality-App\obj\Debug\Municipality-App.csproj.CoreCompileInputs.cache
+C:\Users\Zuwa\source\repos\Municipality-App\obj\Debug\Municipality-App.exe
+C:\Users\Zuwa\source\repos\Municipality-App\obj\Debug\Municipality-App.pdb
+C:\Users\Zuwa\source\repos\Municipality-App\obj\Debug\Municipality_App.IssueReport.resources
+C:\Users\Zuwa\source\repos\Municipality-App\obj\Debug\Municipality_App.ViewIssuesForm.resources
+C:\Users\Zuwa\source\repos\Municipality-App\obj\Debug\Municipality_App.AnnouncementAndEvents.resources
